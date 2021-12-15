@@ -1,3 +1,3 @@
 const name = "NHK 1"
-const age  = 25
+const age  = 26
 const address = "HN 2"
